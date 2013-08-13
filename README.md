@@ -4,7 +4,7 @@ A simple contiguous integration server with client. Not completed.
 
 ## Copyright
 
-Copyright (c) 2013 Sanel Zukan (karijes@users.sourceforge.net)
+Copyright (c) 2013 Sanel Zukan
 
 # License
 
